@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.1.0.0</Version>
+    <ContainsExportedData>true</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>2f9e0e4c-d4af-4c5d-9de2-f956d2d1e42a</Identity>
+    <Start>2024-05-12T14:12:09.4205735+05:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</ProductName>
+    <ProductVersion>16.0.6403.0</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Server 2022 (RTM-GDR) (KB5035432) - 16.0.1115.1 (X64) 
+	Mar 15 2024 01:13:46 
+	Copyright (C) 2022 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Home 10.0 &lt;X64&gt; (Build 22631: ) (Hypervisor)
+</ServerVersion>
+    <ObjectCounts>
+      <DatabaseOptions>1</DatabaseOptions>
+      <ForeignKeyConstraint>4</ForeignKeyConstraint>
+      <Index>4</Index>
+      <PermissionStatement>2</PermissionStatement>
+      <PrimaryKeyConstraint>9</PrimaryKeyConstraint>
+      <Procedure>1</Procedure>
+      <SimpleColumn>47</SimpleColumn>
+      <Table>9</Table>
+    </ObjectCounts>
+  </Server>
+  <ExportStatistics>
+    <SourceDatabaseSize>14288</SourceDatabaseSize>
+    <TableRowCountTotalTag>341</TableRowCountTotalTag>
+  </ExportStatistics>
+  <Checksums>
+    <Checksum Uri="/model.xml">B00AF24C8865827B4D4860B15389413FE06FEEB7C06FDA365088B0A6FB4A053E</Checksum>
+  </Checksums>
+  <ModelSchemaVersion>2.9</ModelSchemaVersion>
+</DacOrigin>
